@@ -20,7 +20,7 @@ int main ()
 	cout<<"enter the element to be found:";
 	cin>>ele;
 	
-	for(i=0;i<n;i++)
+	for(i=0;i<n-1;i++)
 	{
 	
 		if(arr[i]==ele)
