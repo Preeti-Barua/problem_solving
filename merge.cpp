@@ -30,7 +30,8 @@ int main()
 	cout<<"after merging the elements::";
 	for(i=0;i<=m+n;i++)
 	{
-		cout<<a[i];
+		cout<<a[i]<<" ";
 	}
+	
 	return 0;
 }
