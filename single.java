@@ -1,3 +1,4 @@
+//SINGLE LEVEL INHERITANCE
 class single
 {
     void eat()

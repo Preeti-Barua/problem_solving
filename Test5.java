@@ -1,4 +1,6 @@
 class Test5
+//method overloading 
+// by changing number of parameters.........
 {
     static int add(int a,int b)
     {
